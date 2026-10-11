@@ -5,7 +5,7 @@ import process from 'node:process';
 
 const argDir = process.argv[2];
 const root = path.resolve(process.cwd(), argDir || '.');
-const port = Number(process.env.PORT || 9010);
+const port = 9010;
 const mime = { '.html':'text/html; charset=utf-8', '.js':'text/javascript; charset=utf-8', '.css':'text/css; charset=utf-8', '.json':'application/json; charset=utf-8', '.svg':'image/svg+xml' };
 
 const server = http.createServer((req,res) => {
