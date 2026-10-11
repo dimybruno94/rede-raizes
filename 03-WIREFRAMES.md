@@ -73,7 +73,7 @@
 │  🔥 MAIS PEDIDOS           │ (Section Header)
 │  ┌──────────┐ ┌──────────┐ │
 │  │ IMAGEM   │ │ IMAGEM   │ │ (2 Colunas)
-│  │ X Burger │ │ Caldo    │ │
+│  │ X Da Casa│ │ Caldo    │ │
 │  │ R$28,90  │ │ R$12,50  │ │
 │  │ ⭐⭐⭐⭐⭐│ │ ⭐⭐⭐⭐⭐│ │
 │  └──────────┘ └──────────┘ │

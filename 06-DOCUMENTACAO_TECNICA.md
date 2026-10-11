@@ -6,9 +6,8 @@
 - **Versão:** 1.0.0
 - **Data:** Agosto de 2026
 - **Disciplina:** Projeto Multidisciplinar
-- **Instituição:** Instituição de Ensino (Inserir nome)
-- **Equipe:** Aluno(a) - [Nome completo]
-
+- **Instituição:** Uninter
+- **Equipe:** Bruno Daniel Ornellas
 ---
 
 ## 2. RESUMO EXECUTIVO
@@ -378,6 +377,6 @@ O projeto **Rede Raízes do Nordeste** demonstra:
 **Documento preparado em conformidade com normas ABNT e boas práticas de engenharia de software.**
 
 **Versão:** 1.0  
-**Data:** Agosto 2026  
-**Autor:** [Nome do Aluno]  
-**Revisão:** [Data da última atualização]
+**Data:** outubro 2026  
+**Autor:** [Bruno Daniel Ornellas]  
+**Revisão:** [11/10/2026]

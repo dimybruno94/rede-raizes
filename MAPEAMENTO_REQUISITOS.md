@@ -320,6 +320,6 @@ Para que o trabalho seja validado, é necessário entregar:
 
 ---
 
-Criado em: **2026-08-06**
+Criado em: **2026-10-11**
 Projeto: **Rede Raízes do Nordeste**
 Versão: **Final**

@@ -3,7 +3,8 @@
   "version": "2.0.0",
   "private": true,
   "type": "module",
-  "description": "MVP omnichannel demonstrável da Rede Raízes do Nordeste",
+  "description": "MVP omnichannel demonstrável de e-commerce e autoatendimento",
+  "author": "Bruno Daniel Ornellas <dimybruno@gmail.com>",
   "scripts": {
     "dev": "node scripts/dev-server.mjs",
     "build": "node scripts/build.mjs",

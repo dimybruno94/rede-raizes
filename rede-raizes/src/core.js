@@ -6,8 +6,7 @@ export const PRODUCTS = [
   { id: 'p5', name: 'Suco de Cajá', category: 'Bebidas', price: 8.9, emoji: '🥭', desc: 'Suco natural de cajá, 400 ml.', allergen: '' },
   { id: 'p6', name: 'Cajuína', category: 'Bebidas', price: 7.5, emoji: '🧃', desc: 'Cajuína gelada, 350 ml.', allergen: '' },
   { id: 'p7', name: 'Água de Coco', category: 'Bebidas', price: 7.9, emoji: '🥥', desc: 'Água de coco integral, 400 ml.', allergen: '' },
-  { id: 'p8', name: 'Cartola', category: 'Sobremesas', price: 15.9, emoji: '🍌', desc: 'Banana, queijo, açúcar e canela.', allergen: 'Contém lactose' },
-  { id: 'p9', name: 'Bolo de Rolo', category: 'Sobremesas', price: 12.9, emoji: '🍰', desc: 'Fatia de bolo de rolo com goiabada.', allergen: 'Contém glúten, ovos e lactose' },
+  { id: 'p8', name: 'Bolo de Rolo', category: 'Sobremesas', price: 12.9, emoji: '🍰', desc: 'Fatia de bolo de rolo com goiabada.', allergen: 'Contém glúten, ovos e lactose' },
 ];
 
 export const UNITS = [
