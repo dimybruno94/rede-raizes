@@ -4,7 +4,7 @@
 
 - **Nome:** Rede Raízes do Nordeste - Plataforma de E-commerce
 - **Versão:** 1.0.0
-- **Data:** Agosto de 2026
+- **Data:** Outubro de 2026
 - **Disciplina:** Projeto Multidisciplinar
 - **Instituição:** Uninter
 - **Equipe:** Bruno Daniel Ornellas
@@ -367,11 +367,10 @@ O projeto **Rede Raízes do Nordeste** demonstra:
 
 ## APÊNDICE A: Links e URLs
 
-- **Repositório:** [Inserir link do GitHub]
-- **Deploy ao vivo:** [Inserir URL de produção]
-- **Demo/Protótipo:** [Disponível após deploy]
-- **Contato:** [email@seudominio.com]
-
+- **Repositório:** https://github.com/dimybruno94/rede-raizes
+- **Deploy ao vivo:** https://dimybruno94.github.io/rede-raizes/
+- **Demo/Protótipo:** Aplicação web publicada para demonstração e validação das funcionalidades implementadas.
+- **Contato:** dimybruno@gmail.com
 ---
 
 **Documento preparado em conformidade com normas ABNT e boas práticas de engenharia de software.**
