@@ -35,11 +35,15 @@ A Rede Raízes do Nordeste é uma rede de lanchonetes que busca modernizar seus 
 - Busca por nome do produto
 - Exibição de preço, descrição e imagem
 
-### RF03 - Realização de Pedidos
-- Adicionar itens ao carrinho
-- Cálculo automático de total
-- Aplicação de cupons/promoções
-- Seleção de forma de retirada (presencial/entrega)
+### RNF03 - Segurança e LGPD
+
+- Solicitar consentimento para o tratamento de dados pessoais quando aplicável, com finalidade e informações claras ao usuário.
+- Disponibilizar a política de privacidade de forma acessível.
+- Permitir que o titular solicite a exclusão dos dados pessoais, respeitadas as hipóteses legais de conservação.
+- Não armazenar senhas, números completos de cartão ou CVV no localStorage.
+- Utilizar HTTPS na comunicação com a aplicação publicada.
+- Proteger os dados pessoais com medidas técnicas e organizacionais adequadas.
+- Coletar e manter apenas os dados necessários para as finalidades informadas.
 
 ### RF04 - Acompanhamento de Pedidos
 - Status em tempo real (Confirmado → Preparando → Pronto → Retirado)
@@ -59,8 +63,12 @@ A Rede Raízes do Nordeste é uma rede de lanchonetes que busca modernizar seus 
 
 ### RF07 - Integração de Pagamento
 
-- Exibição de retorno do pagamento
-- Armazenamento seguro de referência (senha/cartão)
+- Integração simulada com gateway externo de pagamento.
+- Exibição do resultado da tentativa de pagamento.
+- Armazenamento apenas da referência ou identificador da transação, quando necessário.
+- Não armazenar senhas, número completo do cartão ou código de segurança (CVV) no navegador.
+- Em ambiente de produção, utilizar um provedor de pagamento seguro para processar os dados financeiros.
+
 
 ### RF08 - Gestão Administrativa
 - Dashboard de vendas por unidade
